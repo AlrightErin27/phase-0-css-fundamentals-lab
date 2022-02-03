@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+.header-div {
+  text-align: center;
+}
+.nav {
+  padding: 0 10px 0 10px;
+  background-color: grey;
+}
+#featured-property {
+  text-align: center;
+  font-size: smaller;
+}
+/* #details {
+  background-color: rgb(189, 66, 66);
+} */
+.footer {
+  float: left;
+  background-color: rgb(189, 66, 66);
+  width: 25%;
+}
